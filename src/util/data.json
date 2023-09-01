@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "image": "./img/Aromistico.jpg",
+        "name": "AROMISTICO Coffee 1 kg",
+        "country": "Columbia",
+        "price": 6.99,
+        "about": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": 2,
+        "image": "./img/Solimo.jpg",
+        "name": "Solimo Coffee Beans 2 kg",
+        "country": "Brazil",
+        "price": 10.99,
+        "about": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": 3,
+        "image": "./img/Presto.jpg",
+        "name": "Presto Coffee Beans 1 kg",
+        "country": "Kenya",
+        "price": 15.99,
+        "about": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "4",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
+        "name": "AROMISTICO Coffee 1 kg",
+        "country": "Columbia",
+        "price": 6.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "5",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
+        "name": "Solimo Coffee Beans 2 kg",
+        "country": "Brazil",
+        "price": 10.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "6",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
+        "name": "Presto Coffee Beans 1 kg",
+        "country": "Kenya",
+        "price": 15.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "7",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
+        "name": "AROMISTICO Coffee 1 kg",
+        "country": "Columbia",
+        "price": 6.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "8",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
+        "name": "Solimo Coffee Beans 2 kg",
+        "country": "Brazil",
+        "price": 10.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "9",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
+        "name": "Presto Coffee Beans 1 kg",
+        "country": "Kenya",
+        "price": 15.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+]

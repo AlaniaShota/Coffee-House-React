@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "image": "./img/coffeeAfrica.jpg",
+        "country": "Africa",
+        "about": "African coffee is thought to be some of the best in the world due to its wonderfully distinctive flavour. Traditionally African coffee boasts the following characteristics:",
+        "fertilizer": [
+            "Syrupy",
+            "Medium acidity",
+            "Light to medium roast"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "./img/LatinAmericaCoffee.jpg",
+        "country": "Latin America",
+        "about": "Thought to be one of the coffee capitals of the world, coffee from Latin America makes up most of the blends found on supermarket shelves today. The flavour is universally enjoyed which is mostly attributed to its well-rounded taste. A few of the key characteristics Latin American coffee possesses are:",
+        "fertilizer": [
+            "Nutty",
+            "Low acidity",
+            "Light or medium roast"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "./img/asianCoffee.jpg",
+        "country": "Asia",
+        "about": "Asia is home to some of the most unique coffee blends with bold, unique flavourings unlike any other. Typically, you can expect Asian coffee to be:",
+        "fertilizer": [
+            "Earthy",
+            "Gentle acidity",
+            "Dark roast"
+        ]
+    }
+]

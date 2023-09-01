@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "img": "./img/arabicaCoffeeBeans.jpg",
+        "name": "Arabica",
+        "about": "Arabica coffee beans is one of the most popular types and it’s believed to be one of the first coffee species ever grown with roots dating back to 100 years. Known for their vibrant and complex flavours, these beans are loved by coffee connoisseurs because of their smooth and less acidic taste. There are two types of Arabica coffee bean, Typica and Bourbon. Typica is also sometimes known as Sumatra and Arabigo and it is this type which is thought to be the first bean ever discovered. Bourbon on the other hand is considered to be a natural mutation of Typica and offers a more balanced and slightly sweeter favour, making it a popular choice amongst coffee lovers."
+    },
+    {
+        "id": 2,
+        "img": "./img/rabustaCoffeeBeans.jpg",
+        "name": "Robusta ",
+        "about": "Commonly grown in Africa and Indonesia, Robusta coffee beans have a higher caffeine content and as such, offer a much deeper and stronger taste than the Arabica variety. It’s a popular choice for espressos due to the rich flavour and layer of crema it gives and is also widely used in instant coffee."
+    }
+]
