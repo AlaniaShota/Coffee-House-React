@@ -1,10 +1,15 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 import CoffeeHouseMain from "./CoffeeHouseMain/coffeeHouseMain";
 import CoffeeHouseSection from "./CoffeeHouseSection/coffeeHouseSection";
 
 const CoffeeHouse = () => {
   return (
     <>
+      <Helmet>
+        <meta name="description" content="Our Coffee" />
+        <title>Coffee House</title>
+      </Helmet>
       <div className="inset-x-0 top-52 ">
         <div className="object-cover h-[557px] bg-coffeeHouseHeader bg-no-repeat flex flex-col justify-center items-center font-googleFont font-bold text-[#fff] ">
           <h1 className="text-[40px]  h-[44px] cursor-default">

@@ -1,10 +1,15 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 import dataCoffeeHouse from "../../util/dataCoffeeHouse.json";
 import dataBeans from "../../util/dataBeans.json";
 
 const AboutCoffee = () => {
   return (
     <>
+      <Helmet>
+        <meta name="description" content="Our Coffee" />
+        <title>About Coffee</title>
+      </Helmet>
       <div className=" object-cover h-[557px] bg-aboutCoffeeHeader bg-no-repeat flex flex-col justify-center items-center font-googleFont font-bold text-[#fff] ">
         <h1 className="text-[40px]  h-[44px] cursor-default">About Coffee</h1>
       </div>

@@ -2,18 +2,28 @@ import React from "react";
 import { NavLink, Outlet } from "react-router-dom";
 
 const Layout = () => {
+  const isActive = ({ isActive }) => ({
+    borderBottom: isActive ? "1px solid #fff" : "inherit",
+  });
+
   return (
     <div className="font-googleFont  text-[#fff]">
       <div className=" font-bold text-[18px]">
         <header className="absolute pt-[50px] pl-[150px]">
-          <NavLink to="/">Coffee house</NavLink>
-          <NavLink to="/our-coffee" className="pl-[15px]">
+          <NavLink style={isActive} to="/">
+            Coffee house
+          </NavLink>
+          <NavLink style={isActive} to="/our-coffee" className="ml-[15px]">
             Our coffee
           </NavLink>
-          <NavLink to="/for-your-pleasure" className=" pl-[15px]">
+          <NavLink
+            style={isActive}
+            to="/for-your-pleasure"
+            className=" ml-[15px]"
+          >
             For your pleasure
           </NavLink>
-          <NavLink to="/about-coffee" className=" pl-[15px]">
+          <NavLink style={isActive} to="/about-coffee" className=" ml-[15px]">
             About Coffee
           </NavLink>
         </header>

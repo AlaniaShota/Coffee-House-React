@@ -6,8 +6,7 @@ const ForYourPleasureSection = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    const selectData = jsonData;
-    setData(selectData);
+    setData(jsonData);
   }, []);
 
   return (

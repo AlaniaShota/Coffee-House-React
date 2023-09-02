@@ -7,8 +7,7 @@ const OurCoffeeSection = () => {
   const [search, setSearch] = useState("");
 
   useEffect(() => {
-    const selectData = jsonData;
-    setData(selectData);
+    setData(jsonData);
   }, []);
 
   return (

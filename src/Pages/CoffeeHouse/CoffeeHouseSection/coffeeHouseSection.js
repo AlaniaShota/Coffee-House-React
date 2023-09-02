@@ -6,8 +6,7 @@ const CoffeeHouseSection = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    const selectData = jsonData.slice(0, 3);
-    setData(selectData);
+    setData(jsonData.slice(0, 3));
   }, []);
 
   return (

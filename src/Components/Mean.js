@@ -1,8 +1,6 @@
 import React from "react";
 
-const Mean = (props) => {
-  const data = props.data;
-
+const Mean = ({ data }) => {
   return (
     <div>
       {data.map((item) => (
