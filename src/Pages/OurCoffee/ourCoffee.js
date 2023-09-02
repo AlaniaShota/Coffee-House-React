@@ -23,7 +23,7 @@ const OurCoffee = () => {
           <h1 className="text-[46px] h-[46px] cursor-default">Our Coffee</h1>
         </div>
       </div>
-      <Mean data={data} search={undefined} />
+      <Mean data={data} />
       <OurCoffeeSection />
     </>
   );

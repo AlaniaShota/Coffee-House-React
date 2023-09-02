@@ -19,6 +19,7 @@ module.exports = {
       forYourPleasureHeader: "url(/public/img/coffee-2179009_1920.jpg)",
       forYourPleasureMean: "url(/public/img/coffee-839233_1920.jpg)",
       aboutCoffeeHeader: "url(/public/img/aboutCoffeeHeader.jpg)",
+      errorPage:'url(/public/img/error.gif)'
     },
   },
   plugins: [],

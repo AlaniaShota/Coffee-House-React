@@ -14,7 +14,7 @@ const ForYourPleasure = () => {
   return (
     <>
       <Helmet>
-        <meta name="description" content="Our Coffee" />
+        <meta name="description" content="For Your Pleasure" />
         <title>For Your Pleasure</title>
       </Helmet>
       <div className="inset-x-0 top-52 ">

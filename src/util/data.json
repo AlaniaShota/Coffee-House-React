@@ -1,27 +1,30 @@
 [
     {
         "id": 1,
-        "image": "./img/Aromistico.jpg",
+        "image": "/img/Aromistico.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
         "name": "AROMISTICO Coffee 1 kg",
         "country": "Columbia",
         "price": 6.99,
-        "about": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
         "id": 2,
-        "image": "./img/Solimo.jpg",
+        "image": "/img/Solimo.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
         "name": "Solimo Coffee Beans 2 kg",
         "country": "Brazil",
         "price": 10.99,
-        "about": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
         "id": 3,
-        "image": "./img/Presto.jpg",
+        "image": "/img/Presto.jpg",
+        "thumbnail": "/img/81tGmkXdGLL.jpg",
         "name": "Presto Coffee Beans 1 kg",
         "country": "Kenya",
         "price": 15.99,
-        "about": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
         "id": "4",

@@ -7,7 +7,7 @@ const AboutCoffee = () => {
   return (
     <>
       <Helmet>
-        <meta name="description" content="Our Coffee" />
+        <meta name="description" content="About Coffee" />
         <title>About Coffee</title>
       </Helmet>
       <div className=" object-cover h-[557px] bg-aboutCoffeeHeader bg-no-repeat flex flex-col justify-center items-center font-googleFont font-bold text-[#fff] ">

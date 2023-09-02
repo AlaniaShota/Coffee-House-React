@@ -7,7 +7,7 @@ const CoffeeHouse = () => {
   return (
     <>
       <Helmet>
-        <meta name="description" content="Our Coffee" />
+        <meta name="description" content="Coffee House" />
         <title>Coffee House</title>
       </Helmet>
       <div className="inset-x-0 top-52 ">
